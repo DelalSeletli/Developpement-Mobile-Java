@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculIMC</string>
+    <string name="Poids">Poids</string>
+    <string name="appreciation">Details</string>
+    <string name="calcul">Caculer l\'IMC</string>
+    <string name="centimetre">centimètre</string>
+    <string name="determinerPoids">Determiner votre poids</string>
+    <string name="determinerTaille">Determiner votre taille</string>
+    <string name="famine">famine</string>
+    <string name="imc">Votre IMC est</string>
+    <string name="maigreur">maigreur</string>
+    <string name="metre">metre</string>
+    <string name="normal">corpulence normale</string>
+    <string name="obesiteMM">obesité morbide</string>
+    <string name="obesiteS">obésité sévère</string>
+    <string name="obesiveM">obésité modéré</string>
+    <string name="resultat">"Résultat : "</string>
+    <string name="surpoids">surpoids</string>
+    <string name="taille">taille</string>
+    <string name="texteInit">"Vous devez cliquer sur \"calculer l'IMC\" pour avoir un résultat "</string>
+    <string name="Positive">Entrez des valeurs positives</string>
+    <string name="EnterValue">Des champs sont vides</string>
+</resources>

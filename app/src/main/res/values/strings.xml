@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">CalculIMC</string>
+    <string name="Poids">weight</string>
+    <string name="taille">size</string>
+    <string name="determinerPoids">Determine your weight</string>
+    <string name="determinerTaille">Determine your size</string>
+    <string name="centimetre">centimeter</string>
+    <string name="metre">meter</string>
+    <string name="calcul">calcul the IMC</string>
+    <string name="texteInit">You must click on "calcul the IMC" to have a result</string>
+    <string name="resultat">Result : </string>
+    <string name="appreciation">Details</string>
+    <string name="famine">starvation</string>
+    <string name="maigreur">thinness</string>
+    <string name="normal">normal</string>
+    <string name="surpoids">overweight</string>
+    <string name="obesiveM">moderate overweight</string>
+    <string name="obesiteS">strict overweight</string>
+    <string name="obesiteMM">morbid overweight</string>
+    <string name="imc">Your IMC is</string>
+    <string name="Positive">You must enter positive values</string>
+    <string name="EnterValue">Some fields are empty</string>
 </resources>
